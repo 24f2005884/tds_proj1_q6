@@ -1,1 +1,6 @@
-
+{
+  "prompt": "A hyper-realistic editorial photograph of a tailor workshop. A tailor is obsessively stitching a suit directly onto a single person’s body, pulling the fabric extremely tight, filled with excessive pins and tiny detailed adjustments. The suit looks unnaturally precise and constricting, almost fused to the person’s skin. In the background, other mannequins stand ignored, wearing unfinished or loose garments. Cinematic lighting, dramatic shadows, shallow depth of field, highly detailed textures, emotional atmosphere, magazine cover style, physically realistic scene. No text, no symbols, no diagrams, no abstract elements.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly to one person becomes unusable for others, representing a model that memorizes training data but fails to generalize."
+}
